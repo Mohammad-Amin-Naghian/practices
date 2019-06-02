@@ -1,0 +1,1 @@
+select * FROM students WHERE NOT course='c#';

@@ -1,0 +1,1 @@
+Delete FROM students WHERE name_s = 'reza';

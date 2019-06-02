@@ -1,0 +1,1 @@
+select * FROM students WHERE name_s LIKE 'ali';

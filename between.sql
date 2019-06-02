@@ -1,0 +1,1 @@
+select * FROM students WHERE code BETWEEN 741235 AND 961100;

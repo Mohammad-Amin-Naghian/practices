@@ -1,0 +1,1 @@
+select DISTINCT name_S FROM students;
